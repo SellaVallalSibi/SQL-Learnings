@@ -1,6 +1,7 @@
 
 
 --- Creating a Table in DB named "MyDatabase"
+use MyDatabase
 
 CREATE TABLE persons(
 	id INT NOT NULL, /* ID->Column Name ; INT->DataType ; NOT NULL-> Constrains( should not be null value*/
